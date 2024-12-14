@@ -1,0 +1,6 @@
+flask
+flask-cors
+smartcard
+mysql-connector-python
+python-dotenv
+stringparser

@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2024-12-14 21:49:34",
+        "id": "festival06165310",
+        "uid": "A6 8D 61 3D",
+        "name": "Capota Cristian",
+        "ticketID": "8995131",
+        "balance": "12.00"
+    },
+    {
+        "timestamp": "2024-12-14 21:49:52",
+        "id": "festival06165310",
+        "uid": "A6 8D 61 3D",
+        "name": "Capota Cristian",
+        "ticketID": "8995131",
+        "balance": "8.00"
+    },
+    {
+        "timestamp": "2024-12-14 21:52:36",
+        "id": "festival65635368",
+        "uid": "53 16 D9 3D",
+        "name": "Alex Andrei",
+        "ticketID": "39043032",
+        "balance": "0.00"
+    },
+    {
+        "timestamp": "2024-12-14 21:52:43",
+        "id": "festival06165310",
+        "uid": "A6 8D 61 3D",
+        "name": "Capota Cristian",
+        "ticketID": "8995131",
+        "balance": "8.00"
+    },
+    {
+        "timestamp": "2024-12-14 21:52:57",
+        "id": "festival65635368",
+        "uid": "53 16 D9 3D",
+        "name": "Alex Andrei",
+        "ticketID": "39043032",
+        "balance": "800.00"
+    }
+]
